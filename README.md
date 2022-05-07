@@ -17,8 +17,9 @@ In this list I decided to list most of the tools I currently utilize, a ranking 
 
 Tool         | Purpose       | Odds of using| Where to find | Alternative |
 ------------ | ------------- | ------------ | ------------- | ------------ |
-Content Cell | Content Cell  | random,kefb, | ------------- | Content Cell |
-Content Cell | Content Cell  | testing test | -------------
+A long zoom camera | Reconnaissance. When gathering intel on your target, and for reporting purposes for your client, you will want to use a reliable camera. With a long zoom camera, you may be able to check for cameras surrounding the building of your target, be able to spot the location of security guards, and possible gather info on the locks and perimeter, reducing the odds of being detected. | Must Have | Recommended: Panasonic Lumix FZ-80 https://www.amazon.com/PANASONIC-Megapixel-20-1200mm-Stabilization-DC-FZ80K/dp/B01MS16V42 | There are other multiple alternative cameras in the market. One with a decent zoom, ideally over 30x Optical Zoom should work just fine. 
+A reliable set of 0.025 thin picks | Content Cell  | random,kefb, | ------------- | Content Cell |
+A reliable set of 0.015 thin picks | Content Cell  | testing test | -------------
 Content Cell | Content Cell  | testing test | -------------
 Content Cell | Content Cell  | testing test | -------------
 Content Cell | Content Cell  | testing test | -------------
