@@ -1,6 +1,6 @@
 #       Red Teaming - Physical Security - Tactical Covert Entry Tools - EDC
 
-## Disclaimer: I am not responsible for anyone using any information in this post for illegal activities. Getting caught with possession of burglary tools will likely land you behind bars and possibly end with multiple felony conviction. This information is for legal and authorized engagements, and to use for educational purposes only.
+## Disclaimer: I am not responsible for anyone using any information in this post for illegal activities. Getting caught with possession of burglary tools will likely land you behind bars and possibly end with a multiple felony conviction. This information in this post is for legal and authorized engagements, and to use for educational purposes only.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/43127781/167242259-5fceb1dc-1eb9-47bc-a604-e25a2910117e.jpg" width="800">
@@ -70,8 +70,8 @@ Tool         | Purpose       | Usage| Where to find | Alternative |
 <a name="9"></a>9. A reliable plier multitool | Same as with the screwdriver set, in some scenarios you may need to modify a tool or fix something. | 8/10 | Recommended: [Gerber Plier Multitool](https://www.amazon.com/gp/product/B000EDPT9K) | Alternatives: any reliable multitool of your preference |
 <a name="10"></a>10. A reliable set of 0.025 thin lockpicks set | Self explanatory. Cant pick locks without a lockpick set. | 10/10 | Recommended to get a well known brand with good reputation and quality products. Some of those are: [TOOOL](https://www.toool.us/equipment), [Sparrows](https://www.sparrowslockpicks.com), [Southord](https://www.southord.com), [Covert Instruments](https://covertinstruments.com) | N/A. You do not want a pick breaking inside of a client's lock. Avoid sets that are of unknown brands from ebay. |
 <a name="11"></a>11. A reliable set of 0.015 thin lockpick set | This is very similar to the 0.025 set, but you may also want to carry a thinner 0.015 or 0.018 thin lockpick set, for those locks that have a very narrow or thinner keyway, to be able to insert the picks. | 8/10 | Recommended to get a well known brand with good reputation and quality products. Some of those are: [TOOOL](https://www.toool.us/equipment), [Sparrows](https://www.sparrowslockpicks.com), [Southord](https://www.southord.com), [Covert Instruments](https://covertinstruments.com) | N/A.
-<a name="12"></a>11. Tension bars | Content Cell  | random,kefb, | ------------- | Content Cell |
-<a name="13"></a>12. Warded picks | Content Cell  | random,kefb, | ------------- | Content Cell |
+<a name="12"></a>11. Tension bars | One of the most important things for a lockpicker. A good picker knows the value of using good and comfortable tension bars. | 10/10 | Recommended: [Covert Instruments Ergo Turner Set](https://covertinstruments.com/collections/lockpicks/products/ergo-turner-set) or [Sparrows Flatbars](https://www.sparrowslockpicks.com/product_p/ft5k.htm) | There are many other alternatives, varying in sizes and lengths. I stronly recommend having them in varying widths. |
+<a name="13"></a>12. Warded picks | These are used for picking warded locks. | 3/10 | ------------- | Content Cell |
 <a name="14"></a>13. Comb picks | Content Cell  | random,kefb, | ------------- | Content Cell |
 <a name="15"></a>14. Wafer picks | Content Cell  | random,kefb, | ------------- | Content Cell |
 <a name="16"></a>15. Jigglers | Content Cell  | random,kefb, | ------------- | Content Cell |
