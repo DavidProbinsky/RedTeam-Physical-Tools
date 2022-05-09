@@ -8,6 +8,8 @@
 
 ### Commonly used tools for Red Teaming Engagements, Physical Security Assessments, and Tactical Covert Entry.
 
+#### \*\*\**The links of the products may change with time, if so, just ping me on twitter so I can update them. I am not affiliated or sponsored by any of these companies, and I have purchase almost every single item from this list out of my own pocket based on needs for engagements. If there are any other items that are not on this list and you believe they should be, ping me on twitter and I can add them.\*\***
+
 I am a strong believer that Physical Security is really underestimated.
 
 In this list I decided to share most of the tools I currently utilize in authorized engagements, along with a "ranking" of their value based on their usage and if they should be in your toolkit, including where to find them, and in some cases I will also include some other alternatives.
