@@ -27,36 +27,36 @@ In this list I decided to share most of the tools I currently utilize in authori
 2. Entry Tools
    - [A reliable ScrewDriver with changeable bits](#8)
    - [A reliable plier multitool](#9)
-   - [A reliable set of 0.025 thin lockpicks set](#10)
+   - [A reliable set of 0.025 thin lockpick set](#10)
    - [A reliable set of 0.015 thin lockpick set](#11)
    - Within the lockpick set:
-        - [Tension bars](#12)
-        - [Warded picks](#13)
-        - [Comb picks](#14)
-        - [Wafer picks](#15)
-        - [Jigglers](#16)
-        - [Dimple lock picks](#17)
-        - [Tubular lock picks](#18)
-        - [Disk Detainer Pick](#19)
-        - [Lock Lubricant](#20)
-        - [PadLock Shims](#21)
-        - Additional tools:
-            - [Combination lock decoders](#)
-            - [Commercial door hook](#)
-            - [Lishi Picks](#)
-            - [American Lock Bypass](#)
-    - Bypass tools:
-        - [Travelers hook](#)
-        - [Under Door Tool](#)
-        - [Camera film](#)
-        - [Loider tool](#)
-        - [Crash bar tool](#)
-        - [Deadbolt Thumb Turn tool](#)
-        - [Door Latch shims](#)
+      - [Tension bars](#12)
+      - [Warded picks](#13)
+      - [Comb picks](#14)
+      - [Wafer picks](#15)
+      - [Jigglers](#16)
+      - [Dimple lock picks](#17)
+      - [Tubular lock picks](#18)
+      - [Disk Detainer Pick](#19)
+      - [Lock Lubricant](#20)
+      - [PadLock Shims](#21)
+         - Additional tools:
+         - [Combination lock decoders](#22)
+         - [Commercial door hook](#23)
+         - [Lishi Picks](#24)
+         - [American Lock Bypass](#25)
+3. Bypass tools:
+   - [Travelers hook](#)
+   - [Under Door Tool](#)
+   - [Camera film](#)
+   - [Loider tool](#)
+   - [Crash bar tool](#)
+   - [Deadbolt Thumb Turn tool](#)
+   - [Door Latch shims](#)
 3. Drops and Implants
-    - [Rubber Ducky]()
+   - [Rubber Ducky]()
 4. EDC tools
-    - [Covert Belt]()
+   - [Covert Belt]()
 
 
 Tool         | Purpose       | Usage| Where to find | Alternative |
@@ -70,7 +70,7 @@ Tool         | Purpose       | Usage| Where to find | Alternative |
 <a name="7"></a>7. RFID Frecuency Detector | This tool is utilized for recon, to determine the frecuency of RFID badge readers, and determine what your target is using. By knowing if its high or low frecuency, it can help you configure your proxmark to scan and clone badges. Another benefit of these tools is that they do not trigger any alerts. | 6/10 | Recommended: One good benefit of the [Dangerous Things RFID Diagnostics Card](https://dangerousthings.com/product/rdc) is that its the size of a credit card, so it fits perfectly in your wallet for EDC use. | Alternative: The [RF Detector by ProxGrind](https://sneaktechnology.com/product/rf-detector-by-proxgrind-2) can be used as a keychain. |
 <a name="8"></a>8. A reliable ScrewDriver with changeable bits | In some scenarios you may need to modify some of your tools, fix something, or disassemble something. | 8/10 | Recommended: [Wera Kraftform](https://www.amazon.com/Wera-05051024001-Kraftform-BithoCSLDing-Screwdriver/dp/B001HSNHM2) | Alternative: Any other screwdriver set will work just fine. Ideally a kit which can be portable and with different bits |
 <a name="9"></a>9. A reliable plier multitool | Same as with the screwdriver set, in some scenarios you may need to modify a tool or fix something. | 8/10 | Recommended: [Gerber Plier Multitool](https://www.amazon.com/gp/product/B000EDPT9K) | Alternatives: any reliable multitool of your preference |
-<a name="10"></a>10. A reliable set of 0.025 thin lockpicks set | Self explanatory. Cant pick locks without a lockpick set. | 10/10 | Recommended to get a well known brand with good reputation and quality products. Some of those are: [TOOOL](https://www.toool.us/equipment), [Sparrows](https://www.sparrowslockpicks.com), [Southord](https://www.southord.com), [Covert Instruments](https://covertinstruments.com) | N/A. You do not want a pick breaking inside of a client's lock. Avoid sets that are of unknown brands from ebay. |
+<a name="10"></a>10. A reliable set of 0.025 thin lockpick set | Self explanatory. Cant pick locks without a lockpick set. | 10/10 | Recommended to get a well known brand with good reputation and quality products. Some of those are: [TOOOL](https://www.toool.us/equipment), [Sparrows](https://www.sparrowslockpicks.com), [Southord](https://www.southord.com), [Covert Instruments](https://covertinstruments.com) | N/A. You do not want a pick breaking inside of a client's lock. Avoid sets that are of unknown brands from ebay. |
 <a name="11"></a>11. A reliable set of 0.015 thin lockpick set | This is very similar to the 0.025 set, but you may also want to carry a thinner 0.015 or 0.018 thin lockpick set, for those locks that have a very narrow or thinner keyway, to be able to insert the picks. | 8/10 | Recommended to get a well known brand with good reputation and quality products. Some of those are: [TOOOL](https://www.toool.us/equipment), [Sparrows](https://www.sparrowslockpicks.com), [Southord](https://www.southord.com), [Covert Instruments](https://covertinstruments.com) | N/A.
 <a name="12"></a>11. Tension bars | One of the most important things for a lockpicker. A good picker knows the value of using good and comfortable tension bars. | 10/10 | Recommended: [Covert Instruments Ergo Turner Set](https://covertinstruments.com/collections/lockpicks/products/ergo-turner-set) or [Sparrows Flatbars](https://www.sparrowslockpicks.com/product_p/ft5k.htm) | There are many other alternatives, varying in sizes and lengths. I stronly recommend having them in varying widths. |
 <a name="13"></a>12. Warded picks | These are used for picking warded locks. | 3/10 | ------------- | Content Cell |
@@ -82,10 +82,10 @@ Tool         | Purpose       | Usage| Where to find | Alternative |
 <a name="19"></a>18. Disk Detainer Pick | Content Cell  | random,kefb, | ------------- | Content Cell |
 <a name="20"></a>19. Lock Lubricant | Content Cell  | random,kefb, | ------------- | Content Cell |
 <a name="21"></a>20. PadLock Shims | Content Cell  | random,kefb, | ------------- | Content Cell |
-<a name="1"></a>kfjnefkjnkejnkejf | Content Cell  | random,kefb, | ------------- | Content Cell |
-<a name="1"></a>kfjnefkjnkejnkejf | Content Cell  | random,kefb, | ------------- | Content Cell |
-<a name="1"></a>kfjnefkjnkejnkejf | Content Cell  | random,kefb, | ------------- | Content Cell |
-<a name="1"></a>kfjnefkjnkejnkejf | Content Cell  | random,kefb, | ------------- | Content Cell |
+<a name="22"></a>kfjnefkjnkejnkejf | Content Cell  | random,kefb, | ------------- | Content Cell |
+<a name="23"></a>kfjnefkjnkejnkejf | Content Cell  | random,kefb, | ------------- | Content Cell |
+<a name="24"></a>kfjnefkjnkejnkejf | Content Cell  | random,kefb, | ------------- | Content Cell |
+<a name="25"></a>kfjnefkjnkejnkejf | Content Cell  | random,kefb, | ------------- | Content Cell |
 <a name="1"></a>kfjnefkjnkejnkejf | Content Cell  | random,kefb, | ------------- | Content Cell |
 <a name="1"></a>kfjnefkjnkejnkejf | Content Cell  | random,kefb, | ------------- | Content Cell |
 <a name="1"></a>kfjnefkjnkejnkejf | Content Cell  | random,kefb, | ------------- | Content Cell |
