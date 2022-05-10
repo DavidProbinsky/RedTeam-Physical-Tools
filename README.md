@@ -1,4 +1,4 @@
-#       Red Teaming - Physical Security - Tactical Covert Entry Tools - EDC
+#       Red Teaming - Physical Security - Covert Entry Tools - EDC
 
 ## Disclaimer: I am not responsible for anyone using any information in this post for illegal activities. Getting caught with possession of burglary tools will likely land you behind bars and possibly end with a multiple felony conviction. This information in this post is for legal and authorized engagements, and to use for educational purposes only.
 
