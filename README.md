@@ -8,11 +8,11 @@
 
 ### Commonly used tools for Red Teaming Engagements, Physical Security Assessments, and Tactical Covert Entry.
 
-#### \*\*\**The links of the products may change with time, if so, just ping me on twitter so I can update them. I am not affiliated or sponsored by any of these companies, and I have purchase almost every single item from this list out of my own pocket based on needs for engagements. If there are any other items that are not on this list and you believe they should be, ping me on twitter and I can add them.\*\***
+#### \*\*\**The links of the products may change with time, if so, just ping me on twitter so I can update them. I am not affiliated or sponsored by any of these companies, and I have purchased almost every single item from this list out of my own pocket based on needs for engagements. If there are any other items that are not on this list and you believe they should be, ping me on twitter and I can add them.\*\***
 
 I am a strong believer that Physical Security is really underestimated.
 
-In this list I decided to share most of the tools I currently utilize in authorized engagements, along with a ranking of their value based on their usage and if they should be in your toolkit, including where to find them, and in some cases I will also include some other alternatives. 
+In this list I decided to share most of the tools I utilize in authorized engagements, along with a ranking of their value based on their usage and for you to consider if they should be in your toolkit, including where to find some of them, and in some cases I will also include some other alternatives. 
 
 ### Quick list of items:
 
@@ -63,11 +63,12 @@ In this list I decided to share most of the tools I currently utilize in authori
    - [Seattle RAT "SEA-RAT"](#40)
    - [Air Wedge](#41)
    - [Can of Compressed Air](#42)
+   - [Air Wedge](#43)
    - Keys:
-      - [Devious, Troublesome, Hooligan!](#43)
-      - [Alarm & Panel keys](#44)
-      - [Office Keys](#45)
-      - [Elevator Keys](#46)
+      - [Devious, Troublesome, Hooligan!](#44)
+      - [Alarm & Panel keys](#45)
+      - [Office Keys](#46)
+      - [Elevator Keys](#47)
 3. Drops and Implants
    - [Rubber Ducky]()
 4. EDC tools
@@ -97,14 +98,14 @@ Tool         | Purpose       | Usage| Where to find | Alternative |
 <a name="19"></a>19. Tubular lockpicks | Self explanatory. Its for picking tubular locks. | 4/10 | Recommended: [Red Team Tools Tubular Lockpick](https://www.redteamtools.com/convertible-7-8-pin-tubular-lock-pick) | Alternative: If you are very skilled at picking, you can go the manual route of tensioning and single pin picking, but it will take a lot longer to open the lock. With the [Sparrows Goat Wrench](https://www.sparrowslockpicks.com/product_p/goat.htm) you are able to do so. |
 <a name="20"></a>20. Disk Pick | Self explanatory. For picking disk locks. | 4/10 | Recommended: [Sparrows Disk Pick](https://www.sparrowslockpicks.com/product_p/disct.htm) | N/A |
 <a name="21"></a>21. Lock Lubricant | Sometimes you will encounter locks that are a bit difficult to manipulate due to weather and age. Nothing some lock lube couldnt help with.| 9/10 | Some powdered Graphite gets the job done. | N/A |
-<a name="22"></a>22. Plug spinner | This is used in those scenarios where you try to pick open a lock, but you had to spin the core in the opposite direction. This avoids the need of having to pick the lock all over again. | 4/5 | You can find a plug spinner on [Red Team Tools Plug Spinner](https://www.redteamtools.com/lock-pick-plug-spinner) | There are other alternatives from some other brands, which you can find with a few online searches |
-<a name="23"></a>23. Hinge Pin Removal Tool | Content Cell  | random,kefb, | ------------- | Content Cell |
-<a name="24"></a>24. PadLock Shims | Content Cell  | random,kefb, | ------------- | Content Cell |
-<a name="25"></a>25. Combination lock decoders | Content Cell  | random,kefb, | ------------- | Content Cell |
-<a name="26"></a>26. Commercial door hook or Adams Rite | Content Cell  | random,kefb, | ------------- | Content Cell |
-<a name="27"></a>27. Lishi Picks | Content Cell  | random,kefb, | ------------- | Content Cell |
-<a name="28"></a>28. American Lock Bypass Driver | Content Cell  | random,kefb, | ------------- | Content Cell |
-<a name="29"></a>29. Abus Lock Bypass Driver | Content Cell  | random,kefb, | ------------- | Content Cell |
+<a name="22"></a>22. Plug spinner | This is used in those scenarios where you try to pick open a lock, but you had to spin the core in the opposite direction. This avoids the need of having to pick the lock all over again. | 4/10 | You can find a plug spinner on [Red Team Tools Plug Spinner](https://www.redteamtools.com/lock-pick-plug-spinner) | There are other alternatives from some other brands, which you can find with a few online searches |
+<a name="23"></a>23. Hinge Pin Removal Tool | Well, with some locks its just easier to remove the door. | 3/10 | Recommended: [Red Team Tools Hammerless Hinge Pin Tool](https://www.redteamtools.com/hammerless-hinge-tool) | Here are some other alternatives: [Covert Instruments Hinge Pin Removal Tools](https://covertinstruments.com/search?q=hinge) |
+<a name="24"></a>24. PadLock Shims | Used for shimming padlocks. | 6/10 | Recommended: [Red Team Tools Padlock Shims 5-Pack](https://www.redteamtools.com/padlock-shims-5-pack) | Alternative: [Sparrows padlock shims 20-pack](https://www.sparrowslockpicks.com/product_p/sp33.htm) |
+<a name="25"></a>25. Combination lock decoders | These are used for decoding combination locks. | 8/10 | Recommended: [Covert Instruments Decoder Bundle](https://covertinstruments.com/products/decoder-bundle) | Alternative: [Sparrows Ultra Decoder](https://www.sparrowslockpicks.com/product_p/sultradecoder.htm) |
+<a name="26"></a>26. Commercial door hook or Adams Rite | These tools are used to bypass commercial door locks. | 4/10 | Recommended: [Covert Instruments Commercial Door Hook](https://covertinstruments.com/products/commercial-door-hook) | Alternative: [Red Team Tools Adams Rite](https://www.redteamtools.com/adams-rite-bypass-driver-tool) or the [Sparrows Adams Rite Tool](https://www.sparrowslockpicks.com/product_p/passrite.htm) |
+<a name="27"></a>27. Lishi Picks | IYKYK. | 10/10 | N/A | N/A |
+<a name="28"></a>28. American Lock Bypass Driver | Self explanatory. For Bypassing American Padlocks. | 4/10 | Recommended: [Red Team Tools American Lock Bypass](https://www.redteamtools.com/american-lock-bypass-driver-tool) | N/A |
+<a name="29"></a>29. Abus Lock Bypass Driver | Self explanatory. For Bypassing Abus Padlocks. | 4/10 | Recommended: [Sparrows Abus Lock Bypass](https://www.sparrowslockpicks.com/product_p/abusdriver.htm) | N/A |
 <a name="30"></a>30. placeholder | placeholder  | 10/10 | 127.0.0.1 | 0.0.0.0 |
 <a name="31"></a>31. Travelers hook | Content Cell  | random,kefb, | ------------- | Content Cell |
 <a name="32"></a>32. Under Door Tool "UDT" | Content Cell  | random,kefb, | ------------- | Content Cell |
