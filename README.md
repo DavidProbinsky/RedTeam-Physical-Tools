@@ -63,14 +63,20 @@ In this list I decided to share most of the tools I utilize in authorized engage
    - [Seattle RAT "SEA-RAT"](#40)
    - [Air Wedge](#41)
    - [Can of Compressed Air](#42)
-   - [Air Wedge](#43)
+   - [ProxMark RDV4](#43)
    - Keys:
       - [Devious, Troublesome, Hooligan!](#44)
-      - [Alarm & Panel keys](#45)
-      - [Office Keys](#46)
-      - [Elevator Keys](#47)
+      - [Alarm, Panel, other keys](#45)
+      - [Elevator Keys](#46)
 3. Drops and Implants
-   - [Rubber Ducky]()
+   - [Rubber Ducky or Bash Bunny]()
+   - [DigiSpark]()
+   - [Lan Turtle]()
+   - [Shark Jack]()
+   - [Key Crock]()
+   - [Wi-Fi Pineapple]()
+   - [O.MG Plug]()
+   - [ESP-Key]()
 4. EDC tools
    - [Covert Belt]()
 
@@ -117,4 +123,22 @@ Tool         | Purpose       | Usage| Where to find | Alternative |
 <a name="38"></a>38. Strong Magnet | If you've seen the videos of LPL using Magnets, you know what I'm talking about. | 6/10 | Recommended: [Sparrows The Magneto](https://www.sparrowslockpicks.com/product_p/mag.htm) | There is also the MagSwitches. Quick search online and you will find them. |
 <a name="39"></a>39. Bump Keys | Self explanatory. (I gave it a lower rating than others would, since bumping locks is very loud and I prefer picking) | 3/10 | Recommended: [Sparrows Bump Keys](https://www.sparrowslockpicks.com/product_p/bk1.htm) | N/A |
 <a name="40"></a>40. Seattle RAT "SEA-RAT" | This is quite heavy, and intended for first responders, and used to break things, but the long blade works as a loider tool for those doors that have a large cover plate. | 8/10 | Recommended: [Seattle Rapid Access Tool](https://www.ignitionusa.us/searat) | Alternative: I've heard of the use of piano wire in these cases, but I have not used it myself. |
-<a name="1"></a>kfjnefkjnkejnkejf | Content Cell  | random,kefb, | ------------- | Content Cell |
+<a name="41"></a>41. Air Wedge | Its used for assistance with creating gap space in door frames, to use with the Travelers hook. | 7/10 | Recommended: [Covert Instruments Air Wedge](https://covertinstruments.com/products/air-wedge) | N/A |
+<a name="42"></a>42. Can of Compressed Air | Used to bypass 'Request To Exit' sensors | 10/10 | These can be picked up in many local places. | N/A |
+<a name="43"></a>43. ProxMark RDV4 | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="44"></a>44. Devious, Troublesome, Hooligan! | This is a set of 'keyed alike' keys, which are used in many things that we encounter on a daily basis. | 10/10 | Recommended: [Hooligan Keys - Devious, Troublesome, Hooligan!](https://www.hooligankeys.com/shop/Devious-Troublesome-Hooligan-p259460384) | N/A |
+<a name="45"></a>45. Alarm, Panel, other keys | Self explanatory. | 10/10 | Recommended: [Ebay - PenTesting Keys](https://www.ebay.com/itm/175021334214?hash=item28c0159ec6:g:fAYAAOSw0z5hkC56) | N/A |
+<a name="46"></a>46. Elevator Keys | Avoid these unless you know what you are doing. | 10/10 | Recommended: [Sparrows Fire Service Elevator Key Set](https://www.sparrowslockpicks.com/product_p/ekey.htm) | N/A |
+<a name="47"></a>47. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
