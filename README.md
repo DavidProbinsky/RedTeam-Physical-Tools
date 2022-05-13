@@ -78,7 +78,13 @@ In this list I decided to share most of the tools I utilize in authorized engage
    - [O.MG Plug]()
    - [ESP-Key]()
 4. EDC tools:
+   - [Pwnagotchi]()
    - [Covert Belt]()
+   - [Bogota LockPicks]()
+   - [Dog Tag Entry Tool set]()
+   - [Wallet EDC]
+   - [Keychain EDC]
+   - [Covert Companion]
    - 
 
 
