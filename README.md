@@ -16,7 +16,7 @@ In this list I decided to share most of the tools I utilize in authorized engage
 
 ### Quick list of items:
 
-1. Reconnaissance
+1. Reconnaissance:
    - [Camera with high zoom](#1)
    - [Body Worn Action Camera](#2)
    - [Drone with FPV](#3)
@@ -24,7 +24,7 @@ In this list I decided to share most of the tools I utilize in authorized engage
    - [Reliable flashlight](#5)
    - [Borescope / Endoscope](#6)
    - [RFID Frecuency Detector](#7)
-2. Entry Tools
+2. Entry Tools:
    - [A reliable ScrewDriver with changeable bits](#8)
    - [A reliable plier multitool](#9)
    - [Gaffer Tape](#10)
@@ -49,7 +49,7 @@ In this list I decided to share most of the tools I utilize in authorized engage
          - [Lishi Picks](#27)
          - [American Lock Bypass Driver](#28)
          - [Abus Lock Bypass Driver](#29)
-         - [placeholder](#30)
+    - [Alpha AWUS036ACS 802.11ac](#30)
 3. Bypass tools:
    - [Travelers hook](#31)
    - [Under Door Tool "UDT"](#32)
@@ -63,12 +63,12 @@ In this list I decided to share most of the tools I utilize in authorized engage
    - [Seattle RAT "SEA-RAT"](#40)
    - [Air Wedge](#41)
    - [Can of Compressed Air](#42)
-   - [ProxMark RDV4](#43)
+   - [Proxmark3 RDV4](#43)
    - Keys:
       - [Devious, Troublesome, Hooligan!](#44)
       - [Alarm, Panel, other keys](#45)
       - [Elevator Keys](#46)
-3. Drops and Implants
+3. Drops and Implants:
    - [Rubber Ducky or Bash Bunny]()
    - [DigiSpark]()
    - [Lan Turtle]()
@@ -77,8 +77,9 @@ In this list I decided to share most of the tools I utilize in authorized engage
    - [Wi-Fi Pineapple]()
    - [O.MG Plug]()
    - [ESP-Key]()
-4. EDC tools
+4. EDC tools:
    - [Covert Belt]()
+   - 
 
 
 Tool         | Purpose       | Usage| Where to find | Alternative |
@@ -112,7 +113,7 @@ Tool         | Purpose       | Usage| Where to find | Alternative |
 <a name="27"></a>27. Lishi Picks | IYKYK. | 10/10 | N/A | N/A |
 <a name="28"></a>28. American Lock Bypass Driver | Self explanatory. For Bypassing American Padlocks. | 4/10 | Recommended: [Red Team Tools American Lock Bypass](https://www.redteamtools.com/american-lock-bypass-driver-tool) | N/A |
 <a name="29"></a>29. Abus Lock Bypass Driver | Self explanatory. For Bypassing Abus Padlocks. | 4/10 | Recommended: [Sparrows Abus Lock Bypass](https://www.sparrowslockpicks.com/product_p/abusdriver.htm) | N/A |
-<a name="30"></a>30. placeholder | placeholder  | 10/10 | 127.0.0.1 | 0.0.0.0 |
+<a name="30"></a>30. Alfa AWUS036ACS 802.11ac | One of the smallest USB wifi adapters which allows packet injection. | 10/10 | Recommended: [Alfa AWUS036ACS](https://www.amazon.com/gp/product/B0752CTSGD/) | N/A |
 <a name="31"></a>31. Travelers hook | These handy tools are used to manipulate the latches of unproperly installed locks on doors. | 10/10 | Both [Red Team Tools Travelers Hook](https://www.redteamtools.com/long-traveler-hook-steel) and [Covert Instruments Travelers Hook](https://covertinstruments.com/products/6-inch-travelers-hook) have it available. | N/A |
 <a name="32"></a>32. Under Door Tool "UDT" | One of the best tools for quick covert entry. This is used by slipping it under the door, and pulling down on the locked lever from the inside and opening the door. | 10/10 | Recommended: [Sparrows UDT](https://www.sparrowslockpicks.com/product_p/underdoor.htm) | Alternative: [Red Team Tools UDT](https://www.redteamtools.com/under-door-level-lock-tool) |
 <a name="33"></a>33. Camera film | Sometimes you dont have enough gap under the door to use a UDT, but you have enough gap over the door. | 10/10 | Recommended: [Red Team Tools Film Canister](https://www.redteamtools.com/film-canister) | N/A |
@@ -125,7 +126,7 @@ Tool         | Purpose       | Usage| Where to find | Alternative |
 <a name="40"></a>40. Seattle RAT "SEA-RAT" | This is quite heavy, and intended for first responders, and used to break things, but the long blade works as a loider tool for those doors that have a large cover plate. | 8/10 | Recommended: [Seattle Rapid Access Tool](https://www.ignitionusa.us/searat) | Alternative: I've heard of the use of piano wire in these cases, but I have not used it myself. |
 <a name="41"></a>41. Air Wedge | Its used for assistance with creating gap space in door frames, to use with the Travelers hook. | 7/10 | Recommended: [Covert Instruments Air Wedge](https://covertinstruments.com/products/air-wedge) | N/A |
 <a name="42"></a>42. Can of Compressed Air | Used to bypass 'Request To Exit' sensors | 10/10 | These can be picked up in many local places. | N/A |
-<a name="43"></a>43. ProxMark RDV4 | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="43"></a>43. Proxmark3 RDV4 | One of the best tools to clone and attack RFID. | 10/10 | Recommended: [Red Team Tools Proxmark RDV4](https://www.redteamtools.com/Proxmark3-RDV4.01) | Alternative: [Hacker Warehouse Proxmark3 RDV4](https://hackerwarehouse.com/product/proxmark3-rdv4-kit/) |
 <a name="44"></a>44. Devious, Troublesome, Hooligan! | This is a set of 'keyed alike' keys, which are used in many things that we encounter on a daily basis. | 10/10 | Recommended: [Hooligan Keys - Devious, Troublesome, Hooligan!](https://www.hooligankeys.com/shop/Devious-Troublesome-Hooligan-p259460384) | N/A |
 <a name="45"></a>45. Alarm, Panel, other keys | Self explanatory. | 10/10 | Recommended: [Ebay - PenTesting Keys](https://www.ebay.com/itm/175021334214?hash=item28c0159ec6:g:fAYAAOSw0z5hkC56) | N/A |
 <a name="46"></a>46. Elevator Keys | Avoid these unless you know what you are doing. | 10/10 | Recommended: [Sparrows Fire Service Elevator Key Set](https://www.sparrowslockpicks.com/product_p/ekey.htm) | N/A |
