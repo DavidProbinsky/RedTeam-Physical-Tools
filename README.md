@@ -1,6 +1,6 @@
 #       Red Team - Physical Security - Covert Entry - EDC
 
-## Disclaimer: I am not responsible for anyone using any information in this post for illegal activities. Getting caught with possession of burglary tools will likely land you behind bars and possibly end with a multiple felony conviction. This information in this post is for legal and authorized engagements, and to use for educational purposes only.
+## Disclaimer: I am not responsible for anyone using any information in this post for any illegal activities. Getting caught with possession of burglary tools will likely land you behind bars and possibly end with a multiple felony conviction. This information in this post is for legal and authorized engagements, and to use for educational purposes only.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/43127781/167242259-5fceb1dc-1eb9-47bc-a604-e25a2910117e.jpg" width="800">
