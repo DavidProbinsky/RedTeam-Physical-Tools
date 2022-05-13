@@ -2,17 +2,16 @@
 
 ## Disclaimer: I am not responsible for anyone using any information in this post for any illegal activities. Getting caught with possession of burglary tools will likely land you behind bars and possibly end with a multiple felony conviction. This information in this post is for legal and authorized engagements, and to use for educational purposes only.
 
+#### \*\*\**The links of the products may change with time, if so, just ping me on twitter so I can update them. I am not affiliated or sponsored by any of these companies, and I have purchased almost every single item from this list out of my own pocket based on needs for engagements. If there are any other items that are not on this list and you believe they should be, ping me on twitter and I can add them.\*\***
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/43127781/167242259-5fceb1dc-1eb9-47bc-a604-e25a2910117e.jpg" width="800">
 </p>
 
 ### Commonly used tools for Red Teaming Engagements, Physical Security Assessments, and Tactical Covert Entry.
 
-#### \*\*\**The links of the products may change with time, if so, just ping me on twitter so I can update them. I am not affiliated or sponsored by any of these companies, and I have purchased almost every single item from this list out of my own pocket based on needs for engagements. If there are any other items that are not on this list and you believe they should be, ping me on twitter and I can add them.\*\***
-
-I am a strong believer that Physical Security is really underestimated.
-
-In this list I decided to share most of the tools I utilize in authorized engagements, along with a ranking of their value based on their usage and for you to consider if they should be in your toolkit, including where to find some of them, and in some cases I will also include some other alternatives. 
+In this list I decided to share most of the tools I utilize in authorized engagements, along with my personal ranking of their value based on their usage and for you to consider if they should be in your toolkit, including where to find some of them, and in some cases I will also include some other alternatives. 
+My goal with this list is to help fellow Red Teamers with a 'checklist', for whenever they might be missing a tool, and use this list as a reference.  
 
 ### Quick list of items:
 
@@ -50,6 +49,7 @@ In this list I decided to share most of the tools I utilize in authorized engage
          - [American Lock Bypass Driver](#28)
          - [Abus Lock Bypass Driver](#29)
     - [Alpha AWUS036ACS 802.11ac](#30)
+    - [CANtenna](cantenna)
 3. Bypass tools:
    - [Travelers hook](#31)
    - [Under Door Tool "UDT"](#32)
@@ -69,22 +69,22 @@ In this list I decided to share most of the tools I utilize in authorized engage
       - [Alarm, Panel, other keys](#45)
       - [Elevator Keys](#46)
 3. Drops and Implants:
-   - [Rubber Ducky or Bash Bunny]()
-   - [DigiSpark]()
-   - [Lan Turtle]()
-   - [Shark Jack]()
-   - [Key Crock]()
-   - [Wi-Fi Pineapple]()
-   - [O.MG Plug]()
-   - [ESP-Key]()
+   - [Rubber Ducky or Bash Bunny](47)
+   - [DigiSpark](48)
+   - [Lan Turtle](49)
+   - [Shark Jack](50)
+   - [Key Croc](51)
+   - [Wi-Fi Pineapple](52)
+   - [O.MG Plug](53)
+   - [ESPKey](54)
 4. EDC tools:
-   - [Pwnagotchi]()
-   - [Covert Belt]()
-   - [Bogota LockPicks]()
-   - [Dog Tag Entry Tool set]()
-   - [Wallet EDC]
-   - [Keychain EDC]
-   - [Covert Companion]
+   - [Pwnagotchi](55)
+   - [Covert Belt](56)
+   - [Bogota LockPicks](57)
+   - [Dog Tag Entry Tool set](58)
+   - [Sparrows Wallet EDC Kit](59)
+   - [Southord Jackknife](60)
+   - [Covert Companion](61)
    - 
 
 
@@ -120,11 +120,12 @@ Tool         | Purpose       | Usage| Where to find | Alternative |
 <a name="28"></a>28. American Lock Bypass Driver | Self explanatory. For Bypassing American Padlocks. | 4/10 | Recommended: [Red Team Tools American Lock Bypass](https://www.redteamtools.com/american-lock-bypass-driver-tool) | N/A |
 <a name="29"></a>29. Abus Lock Bypass Driver | Self explanatory. For Bypassing Abus Padlocks. | 4/10 | Recommended: [Sparrows Abus Lock Bypass](https://www.sparrowslockpicks.com/product_p/abusdriver.htm) | N/A |
 <a name="30"></a>30. Alfa AWUS036ACS 802.11ac | One of the smallest USB wifi adapters which allows packet injection. | 10/10 | Recommended: [Alfa AWUS036ACS](https://www.amazon.com/gp/product/B0752CTSGD/) | N/A |
+<a name="cantenna"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
 <a name="31"></a>31. Travelers hook | These handy tools are used to manipulate the latches of unproperly installed locks on doors. | 10/10 | Both [Red Team Tools Travelers Hook](https://www.redteamtools.com/long-traveler-hook-steel) and [Covert Instruments Travelers Hook](https://covertinstruments.com/products/6-inch-travelers-hook) have it available. | N/A |
 <a name="32"></a>32. Under Door Tool "UDT" | One of the best tools for quick covert entry. This is used by slipping it under the door, and pulling down on the locked lever from the inside and opening the door. | 10/10 | Recommended: [Sparrows UDT](https://www.sparrowslockpicks.com/product_p/underdoor.htm) | Alternative: [Red Team Tools UDT](https://www.redteamtools.com/under-door-level-lock-tool) |
 <a name="33"></a>33. Camera film | Sometimes you dont have enough gap under the door to use a UDT, but you have enough gap over the door. | 10/10 | Recommended: [Red Team Tools Film Canister](https://www.redteamtools.com/film-canister) | N/A |
 <a name="34"></a>34. Loider tool | This is similar to the Traveler's Hook tool, but will usually fit in more narrow gaps. | 10/10 | Recommended: [Sparrows Quick Jim](https://www.sparrowslockpicks.com/product_p/jim.htm) | Alternative: [Red Team Tools Rescue Jim](https://www.redteamtools.com/rescue-jim/) |
-<a name="35"></a>35. Crash bar tool "DDT" | Self explanatory. Fire exits. Crash bar. You know. | 7/10 | Recommended: [Sparrows DDT](https://www.sparrowslockpicks.com/product_p/ddt.htm) | N/A |
+<a name="35"></a>35. Crash bar tool "DDT" | Self explanatory. Fire exits. Crash bar. You know. | 7/10 | Recommended: [Sparrows DDT](https://www.sparrowslockpicks.com/product_p/ddt.htm) | Alternative: [Serepick DDT](https://www.serepick.com/products/ddt-j-tool) |
 <a name="36"></a>36. Deadbolt Thumb Turn tool | Tool for turning thumb locks. | 7/10 | Recommended: Both [Covert Instruments J tool](https://covertinstruments.com/products/j-tool) and [Red Team Tools](https://www.redteamtools.com/J-Tool-for-Thumb-Turn-Locks) have it available. | N/A |
 <a name="37"></a>37. Door Latch shims | Similar to the Travelers Hook, and the Jim, but for even narrower gaps. | 10/10 | Recommended: [Red Team Tools Door Shims](https://www.redteamtools.com/super-mica-door-shims) | Alternative: [Covert Instruments Door Shims](https://covertinstruments.com/collections/bypass-tools/products/super-mica-shims) |
 <a name="38"></a>38. Strong Magnet | If you've seen the videos of LPL using Magnets, you know what I'm talking about. | 6/10 | Recommended: [Sparrows The Magneto](https://www.sparrowslockpicks.com/product_p/mag.htm) | There is also the MagSwitches. Quick search online and you will find them. |
@@ -136,16 +137,18 @@ Tool         | Purpose       | Usage| Where to find | Alternative |
 <a name="44"></a>44. Devious, Troublesome, Hooligan! | This is a set of 'keyed alike' keys, which are used in many things that we encounter on a daily basis. | 10/10 | Recommended: [Hooligan Keys - Devious, Troublesome, Hooligan!](https://www.hooligankeys.com/shop/Devious-Troublesome-Hooligan-p259460384) | N/A |
 <a name="45"></a>45. Alarm, Panel, other keys | Self explanatory. | 10/10 | Recommended: [Ebay - PenTesting Keys](https://www.ebay.com/itm/175021334214?hash=item28c0159ec6:g:fAYAAOSw0z5hkC56) | N/A |
 <a name="46"></a>46. Elevator Keys | Avoid these unless you know what you are doing. | 10/10 | Recommended: [Sparrows Fire Service Elevator Key Set](https://www.sparrowslockpicks.com/product_p/ekey.htm) | N/A |
-<a name="47"></a>47. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
-<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
-<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
-<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
-<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
-<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
-<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
-<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
-<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
-<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
-<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
-<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
-<a name="41"></a>41. Placeholder | Placeholder | 10/10 | Placeholder | Placeholder |
+<a name="47"></a>47. Rubber Ducky or Bash Bunny | These USB devices are used for keystroke injection and payload delivery. | 10/10 | Recommended: [HAK5 USB Rubber Ducky](https://hak5.org/products/usb-rubber-ducky-deluxe) and the [HAK5 Bash Bunny](https://hak5.org/products/bash-bunny) | Alternatives: The Digispark. |
+<a name="48"></a>41. DigiSpark | Its a cheaper alternative to the Rubber Ducky or the Bash Bunny.[Read more.](https://maker.pro/arduino/projects/how-to-build-a-rubber-ducky-usb-with-arduino-using-a-digispark-module) | 10/10 | No recommended links at the moment, but often found on overseas online sellers. | N/A |
+<a name="49"></a>41. Lan Turtle | USB/Ethernet device used for stealth remote attacks. | 10/10 | [HAK5 Lan Turtle](https://hak5.org/products/lan-turtle) | N/A |
+<a name="50"></a>41. Shark Jack | Found a Ethernet jack in the wall? Quick Portscan? No problem. | 10/10 | Recommended: [HAK5 Shark Jack](https://hak5.org/products/shark-jack) | N/A |
+<a name="51"></a>41. Key Croc | One of the best keyloggers in the market. | 10/10 | Recommended: [HAK5 Key Croc](https://hak5.org/products/key-croc) | N/A |
+<a name="52"></a>41. Wi-Fi Pineapple | Tool used for WiFi security assessments and attacks. | 10/10 | Recommended: [HAK5 WiFi Pineapple](https://hak5.org/products/wifi-pineapple) | N/A |
+<a name="53"></a>41. O.MG Plug | USB implant for attacks over WiFi | 10/10 | Recommended: [HAK5 O.MG Plug](https://hak5.org/collections/mischief-gadgets/products/omg-plug) | N/A |
+<a name="54"></a>41. ESPKey | Used as an RFID implant, for RFID clonning and WiFi attacks. | 10/10 | Recommended: [Red Team Tools ESPKey](https://www.redteamtools.com/espkey) | N/A |
+<a name="55"></a>41. Pwnagotchi | Your EDC WiFi hacking friend. | 10/10 | Recommended to build. [Pwnagotchi Website.](https://pwnagotchi.ai/) | N/A |
+<a name="56"></a>41. Covert Belt | Gotta have a place to hide an extra lockpick set. | 10/10 | Recommended: [Security Travel Money Belt](https://www.amazon.com/gp/product/B07R6X6XSY) | N/A |
+<a name="57"></a>41. Bogota LockPicks | Who hasn't heard of Bogota picks? | 10/10 | Recommended for EDC: [Bogota PI](https://www.serepick.com/products/bogota-pi) | N/A |
+<a name="58"></a>41. Dog Tag Entry Tool set | EDC Bogota dog tag. | 1/10 | Recommended: [Black Scout Survival Dog Tag](https://blackscoutsurvival.com/dog-tag-entry-tool-set/) | N/A |
+<a name="59"></a>41. Sparrows Wallet EDC Kit | This is a combination of multiple Sparrows EDC wallet items. | 4/10 | Recommended: [Sparrows Chaos Card](https://www.sparrowslockpicks.com/product_p/ccard.htm); [Sparrows Chaos Card: Wary Edition](https://www.sparrowslockpicks.com/product_p/warycard.htm); [Sparrows Shimmy Card](https://www.sparrowslockpicks.com/product_p/tcardt.htm); [Sparrows Flex Pass](https://www.sparrowslockpicks.com/product_p/hpflex.htm); [Sparrows Orion Card](https://www.sparrowslockpicks.com/product_p/ocard.htm) | N/A |
+<a name="60"></a>41. Southord Jackknife | Keychain lockpick set. | 5/10 | Recommended: [Southord Jackknife](https://www.southord.com/collections/pocket-lock-pick-sets/products/jackknife-pocket-lock-pick-sets) | Alternative: The Covert Instruments - [Covert Companion](https://covertinstruments.com/products/covert-companion-fully-loaded) |
+<a name="61"></a>41. Covert Companion | A comprehensive kit with multiple tools for multiple needs. | 10/10 | Recommended: [Covert Instruments - Covert Companion](https://covertinstruments.com/products/covert-companion-fully-loaded) | N/A |
