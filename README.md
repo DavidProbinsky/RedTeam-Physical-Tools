@@ -86,6 +86,7 @@ My goal with this list is to help fellow Red Teamers with a 'checklist', for whe
    - [Sparrows Wallet EDC Kit](#edc)
    - [Southord Jackknife](#jack)
    - [Covert Companion](#covert)
+      - [Covert Companion Turning Tools](#cctt)
 
 
 Tool         | Purpose       | Usage| Where to find | Alternative |
@@ -153,3 +154,4 @@ Tool         | Purpose       | Usage| Where to find | Alternative |
 <a name="edc"></a>59. Sparrows Wallet EDC Kit | This is a combination of multiple Sparrows EDC wallet items. | 4/10 | Recommended: [Sparrows Chaos Card](https://www.sparrowslockpicks.com/product_p/ccard.htm); [Sparrows Chaos Card: Wary Edition](https://www.sparrowslockpicks.com/product_p/warycard.htm); [Sparrows Shimmy Card](https://www.sparrowslockpicks.com/product_p/tcardt.htm); [Sparrows Flex Pass](https://www.sparrowslockpicks.com/product_p/hpflex.htm); [Sparrows Orion Card](https://www.sparrowslockpicks.com/product_p/ocard.htm) | N/A |
 <a name="jack"></a>60. Southord Jackknife | Keychain lockpick set. | 5/10 | Recommended: [Southord Jackknife](https://www.southord.com/collections/pocket-lock-pick-sets/products/jackknife-pocket-lock-pick-sets) | Alternative: The Covert Instruments - [Covert Companion](https://covertinstruments.com/products/covert-companion-fully-loaded) |
 <a name="covert"></a>61. Covert Companion | A comprehensive kit with multiple tools for multiple needs. | 10/10 | Recommended: [Covert Instruments - Covert Companion](https://covertinstruments.com/products/covert-companion-fully-loaded) | N/A |
+<a name="cctt"></a>62. Covert Companion Turning Tools | Great addition to your Covert Companion, so you do not have to carry or improvise with other tension wrenches. | 10/10 | Recommended: [Covert Instruments - Turning Tools](https://covertinstruments.com/products/covert-companion-turning-tool-expansion-pack) | N/A |
