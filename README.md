@@ -5,7 +5,7 @@
 #### \*\*\**The links of the products may change with time, if so, just ping me on twitter so I can update them. I am not affiliated or sponsored by any of these companies, and I have purchased almost every single item from this list out of my own pocket based on needs for engagements. If there are any other items that are not on this list and you believe they should be, ping me on twitter and I can add them.\*\***
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/43127781/167242259-5fceb1dc-1eb9-47bc-a604-e25a2910117e.jpg" width="800">
+<img src="https://user-images.githubusercontent.com/43127781/169399280-7c6c7317-f41a-4083-9331-ab569e5fd252.jpg" width="800">
 </p>
 
 ### Commonly used tools for Red Teaming Engagements, Physical Security Assessments, and Tactical Covert Entry.
@@ -69,7 +69,7 @@ My goal with this list is to help fellow Red Teamers with a 'checklist', for whe
       - [Devious, Troublesome, Hooligan!](#keys)
       - [Alarm, Panel, other keys](#panels)
       - [Elevator Keys](#elevators)
-3. Drops and Implants:
+4. Drops and Implants:
    - [Rubber Ducky or Bash Bunny](#ducky)
    - [DigiSpark](#digi)
    - [Lan Turtle](#turtle)
@@ -78,7 +78,7 @@ My goal with this list is to help fellow Red Teamers with a 'checklist', for whe
    - [Wi-Fi Pineapple](#pineapple)
    - [O.MG Plug](#omg)
    - [ESPKey](#esp)
-4. EDC tools:
+5. EDC tools:
    - [Pwnagotchi](#pwn)
    - [Covert Belt](#belt)
    - [Bogota LockPicks](#bogota)
@@ -87,6 +87,15 @@ My goal with this list is to help fellow Red Teamers with a 'checklist', for whe
    - [Southord Jackknife](#jack)
    - [Covert Companion](#covert)
       - [Covert Companion Turning Tools](#cctt)
+
+6. Additional tools:
+   - [Ladders*](#ladder)
+   - [Gloves*](#gloves)
+   - [Footwear*](#footwear)
+   - [Attire*](#attire)
+   - [Thick wool blanket*](#wool)
+   - [First Aid Kit*](#aid)
+   - 
 
 
 Tool         | Purpose       | Usage| Where to find | Alternative |
