@@ -54,7 +54,7 @@ In this list I decided to share most of the tools I utilize in authorized engage
    - [Travelers hook](#hook)
    - [Under Door Tool "UDT"](#udt)
    - [Camera film](#film)
-   - [Loider tool](#loider)
+   - [Jim tool](#loider)
    - [Crash bar tool "DDT"](#ddt)
    - [Deadbolt Thumb Turn tool](#jtool)
    - [Door Latch shims](#door-shims)
