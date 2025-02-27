@@ -107,8 +107,6 @@ In this list I decided to share most of the tools I utilize in authorized engage
    - [Dangerous Things](#dangerousthings)
    - [LockPickWorld](#lockpickworld)
    - [TIHK](#tihk)
-   - [Lost Art Academy](#lostartacademy)
-   - [Toool](#toool)
    - More coming soon!
 <br/>
 <br/>
@@ -239,6 +237,4 @@ Suppliers or Cool sites to check | Website | N/A |
 <a name="dangerousthings"></a> Dangerous Things | https://dangerousthings.com/ | N/A |
 <a name="lockpickworld"></a> LockPickWorld | https://www.lockpickworld.com/ | N/A |
 <a name="tihk"></a> TIHK | https://tihk.co/ | N/A |
-<a name="lostartacademy"></a> Lost Art Academy | https://lostartacademy.com/ | N/A |
-<a name="toool"></a> Toool | https://www.toool.us/ | N/A |
 <a name=""></a> More coming soon! | More coming soon! | N/A |
