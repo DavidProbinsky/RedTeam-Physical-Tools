@@ -1,0 +1,21 @@
+verbose = true
+timeout = 20
+max_redirects = 10
+retry_wait_time = 2
+max_retries = 2
+
+# Treat common redirects as OK
+accept = ["200", "206", "301", "302", "303", "307", "308"]
+
+exclude_mail = true
+exclude_private = true
+
+# Scan everything from repo root
+include = ["."]
+
+# JSON output so we can parse it
+output = "lychee/out.json"
+format = "json"
+
+# Optional: exclude noisy/rate-limited hosts by pattern
+# exclude = ["https://example.org/*"]
