@@ -116,15 +116,15 @@ In this list I decided to share most of the tools I utilize in authorized engage
 
 Recon Tool   | Where to find | Alternative |
 ------------ | ------------- | ------------ |
-<a name="camera"></a>1. Camera with high zoom | Recommended: [Panasonic Lumix FZ-80 with 60x Zoom Camera](https://www.amazon.com/gp/product/B01MS16V42/) | Alternative: If not the Panasonic, you can use others. There are many other good cameras in the market. Try to get one with a decent zoom, any camera with over 30x Optical Zoom should work just fine.
+<a name="camera"></a>1. Camera with high zoom | Recommended: [Panasonic Lumix FZ-80 with 60x Zoom Camera](https://www.amazon.com/gp/product/B01MS16V42/?tag=redteam0a-20) | Alternative: If not the Panasonic, you can use others. There are many other good cameras in the market. Try to get one with a decent zoom, any camera with over 30x Optical Zoom should work just fine.
 <a name="polarized"></a>1.1 Polarized Camera Filters | Recommended: Any polarized filter that fits the lens of your camera. | Alternatives: N/A.
 <a name="ba-camera"></a>2. Body Worn Action Camera | Recommended: [GoPro cameras](https://gopro.com/en/us/shop/cameras) or the [DJI Osmo Action cameras](https://www.dji.com/products/handheld-imaging-devices#action-series) | Alternatives: There are other cheaper alternative action cameras that can be used, however the videos may not have the highest quality or best image stabilization, which can make the footage seem wobbly or too dark.
 <a name="drone"></a>3. Drone with Camera | Recommended: [DJI Mavic Mini Series](https://www.dji.com/products/camera-drones#mavic-series) or any other drone that fits your budget.| N/A |
-<a name="radio"></a>4. Two-Way Radios or Walkie Talkies | Recommended: [BaoFeng UV-5R](https://www.amazon.com/gp/product/B00MAULSOK) | Alternatives would be to just use cellphones and bluetooth headsets and a live call, however with this option you will not be able to listen to local radio chatter. A cell phone serves the purpose of being able to communicate with the client in case of emergency. |
+<a name="radio"></a>4. Two-Way Radios or Walkie Talkies | Recommended: [BaoFeng UV-5R](https://www.amazon.com/gp/product/B00MAULSOK?tag=redteam0a-20) | Alternatives would be to just use cellphones and bluetooth headsets and a live call, however with this option you will not be able to listen to local radio chatter. A cell phone serves the purpose of being able to communicate with the client in case of emergency. |
 <a name="flashlight"></a>5. Reliable flashlight | Amazon, Ebay, local hardware store | If you want to save some money, you can always use the flashlight of your cellphone, however some phones cant decrease the brightness intensity. |
-<a name="borescope"></a>6. Borescope / Endoscope | Recommended: [USB Endoscope Camera](https://www.amazon.com/gp/product/B0836XWPJH/) | There are a few other alternatives, varying in price, size, and connectivity. |
+<a name="borescope"></a>6. Borescope / Endoscope | Recommended: [USB Endoscope Camera](https://www.amazon.com/gp/product/B0836XWPJH/?tag=redteam0a-20) | There are a few other alternatives, varying in price, size, and connectivity. |
 <a name="rfid-detector"></a>7. RFID Detector | Recommended: One good benefit of the [Dangerous Things RFID Diagnostics Card](https://dangerousthings.com/product/rdc) is that its the size of a credit card, so it fits perfectly in your wallet for EDC use. | Cheaper Alternative: The [RF Detector by ProxGrind](https://sneaktechnology.com/product/rf-detector-by-proxgrind-2/) can be used as a keychain.
-<a name="alfa"></a>8. Alfa AWUS036ACS 802.11ac | Recommended: [Alfa AWUS036ACS](https://www.amazon.com/gp/product/B0752CTSGD/) | N/A |
+<a name="alfa"></a>8. Alfa AWUS036ACS 802.11ac | Recommended: [Alfa AWUS036ACS](https://www.amazon.com/gp/product/B0752CTSGD/?tag=redteam0a-20) | N/A |
 <a name="cantenna"></a>9. CANtenna | N/A | Yagi Antennas also work the same way. |
 <br/>
 <br/>
@@ -133,8 +133,8 @@ Recon Tool   | Where to find | Alternative |
 <a name="entrytools"></a>
 LockPicking & Entry Tools          | Recommended | Alternatives |
 ---------------------------------- | ----------- | ------------ |
-<a name="screwdriver"></a>10. A reliable ScrewDriver with changeable bits | Recommended: [Wera Kraftform](https://www.amazon.com/Wera-05051024001-Kraftform-BithoCSLDing-Screwdriver/dp/B001HSNHM2) | Alternative: Any other screwdriver set will work just fine. Ideally a kit which can be portable and with different bits |
-<a name="multitool"></a>11. A reliable plier multitool | Recommended: [Gerber Plier Multitool](https://www.amazon.com/gp/product/B000EDPT9K) | Alternatives: any reliable multitool of your preference |
+<a name="screwdriver"></a>10. A reliable ScrewDriver with changeable bits | Recommended: [Wera Kraftform](https://www.amazon.com/Wera-05051024001-Kraftform-BithoCSLDing-Screwdriver/dp/B001HSNHM2?tag=redteam0a-20) | Alternative: Any other screwdriver set will work just fine. Ideally a kit which can be portable and with different bits |
+<a name="multitool"></a>11. A reliable plier multitool | Recommended: [Gerber Plier Multitool](https://www.amazon.com/gp/product/B000EDPT9K?tag=redteam0a-20) | Alternatives: any reliable multitool of your preference |
 <a name="tape"></a>12. Gaffer Tape | Recommended because of its portability: [Red Team Tools Gaffer Tape](https://www.redteamtools.com/flat-gaffer-tape) | Alternatives: There are many other options on Amazon, but they are all larger in size. |
 <a name="lpset1"></a>13. A reliable set of 0.025 thin lockpick set | Recommended to get a well known brand with good reputation and quality products. Some of those are: [TOOOL](https://www.toool.us/equipment), [Sparrows](https://www.sparrowslockpicks.com), [SouthOrd](https://www.southord.com), [Covert Instruments](https://covertinstruments.com) | N/A. You do not want a pick breaking inside of a client's lock. Avoid sets that are of unknown brands from ebay. |
 <a name="lpset2"></a>14. A reliable set of 0.018 thin lockpick set | Recommended to get a well known brand with good reputation and quality products. Some of those are: [TOOOL](https://www.toool.us/equipment), [Sparrows](https://www.sparrowslockpicks.com), [SouthOrd](https://www.southord.com), [Covert Instruments](https://covertinstruments.com) | N/A.
@@ -201,7 +201,7 @@ Implants | Recommended | Alternatives |
 EDC Tools | Recommended | Alternatives |
 --------- | ----------- | ------------ |
 <a name="pwn"></a>56. Pwnagotchi | Recommended to build. [Pwnagotchi Website.](https://pwnagotchi.ai/) | N/A |
-<a name="belt"></a>57. Covert Belt | Recommended: [Security Travel Money Belt](https://www.amazon.com/gp/product/B07R6X6XSY) | N/A |
+<a name="belt"></a>57. Covert Belt | Recommended: [Security Travel Money Belt](https://www.amazon.com/gp/product/B07R6X6XSY?tag=redteam0a-20) | N/A |
 <a name="bogota"></a>58. Bogota LockPicks | Recommended for EDC: [Bogota PI](https://www.serepick.com/products/bogota-pi) | N/A |
 <a name="tag"></a>59. Dog Tag Entry Tool set | Recommended: [Black Scout Survival Dog Tag](https://blackscoutsurvival.com/dog-tag-entry-tool-set/) | N/A |
 <a name="edc"></a>60. Sparrows Wallet EDC Kit | Recommended: [Sparrows Chaos Card](https://www.sparrowslockpicks.com/products/chaos-card); [Sparrows Chaos Card: Wary Edition](https://www.sparrowslockpicks.com/products/chaos-card-wary-edition); [Sparrows Shimmy Card](https://www.sparrowslockpicks.com/products/shimmy-card); [Sparrows Flex Pass](https://www.sparrowslockpicks.com/products/flex-pass); [Sparrows Orion Card](https://www.sparrowslockpicks.com/products/orion-lock-pick-card) | N/A |
