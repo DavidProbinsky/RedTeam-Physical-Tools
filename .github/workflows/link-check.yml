@@ -1,0 +1,38 @@
+name: Link Check
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    name: Check links with lychee
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Run lychee (broken-link checker)
+        uses: lycheeverse/lychee-action@v1.11.0
+        with:
+          args: >-
+            --no-progress
+            --verbose
+            --max-redirects 10
+            --accept 200,206,301,302,303,307,308
+            --exclude-mail
+            --exclude-all-private
+            --retry-wait-time 2
+            --retry-count 2
+            --timeout 20
+            .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload lychee report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lychee-report
+          path: lychee/out.md
