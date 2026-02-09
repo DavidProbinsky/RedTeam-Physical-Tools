@@ -87,6 +87,7 @@
 
 | Name | Purpose | Where | Price* | Notes |
 |---|---|---|---:|---|
+| REX Blaster | Trigger request-to-exit sensors |  [RTT REX Blaster][rtt-rb] | ~$20 | Alt: [Can-O-Air] (~$20) 6 Pack
 | Traveler’s hook | Latch manipulation | [RTT Traveler][rtt-th] | ~$6 | Alt: [CI Traveler][ci-th] (~$5) |
 | Under-Door Tool (UDT) | Lever lock bypass | [Sparrows UDT][sparrows-udt] | ~$38 | Alt: [RTT UDT][rtt-udt] (~$33) |
 | Camera film | For Over the Door attacks | [RTT Film][rtt-film] | ~$14 | Alt: n/a  |
@@ -243,6 +244,8 @@ MIT — see the [LICENSE](LICENSE) file.
 [ci-american]: https://covertinstruments.com/products/padlock-bypass-driver 
 [rtt-american]: https://www.redteamtools.com/american-padlock-bypass-tool/
 
+[rtt-rb]: https://www.redteamtools.com/rex-blaster-nozzle-head-gen-3/
+[Can-O-Air]: https://www.amazon.com/Office-Depot-Cleaning-Duster-OD101523/dp/B00DB8NSG6/ref=sr_1_3?sr=8-3
 [rtt-th]: https://www.redteamtools.com/traveler-hook-steel
 [ci-th]: https://covertinstruments.com/products/traveler-hook 
 [sparrows-udt]: https://www.sparrowslockpicks.com/products/the-stretcher-under-door-tool
