@@ -10,7 +10,7 @@
 >
 > **Affiliate Disclosure:** Some links are affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.  
 >
-> **Pricing Note:** Prices are approximate as of **September 2025**. **Prices subject to change.**
+> **Pricing Note:** Prices are approximate as of **February 2026**. **Prices subject to change.**
 >
 > Note: These are tools I’ve actually carried and used during authorized red team operations. There are many other interesting gadgets on the market (e.g., SDRs like HackRF or RTL-SDR), but in my experience they don’t see much use in real engagements, so I’ve left them out.
 
@@ -132,7 +132,7 @@
 | Name | Purpose | Where | Price* | Notes |
 |---|---|---|---:|---|
 | Flipper Zero | Multi-platform hacking device | [Flipper Zero][flipper] | ~$200 | Alt: n/a |
-| Hak5 Wi-Fi Pager | Compact Wi-Fi test tool (pre-order) | [Hak5 Wi-Fi Pager][hak5-pager] | ~$300 | Note: its currently Pre-order only |
+| Hak5 Wi-Fi Pager | Compact Wi-Fi test tool | [Hak5 Wi-Fi Pager][hak5-pager] | ~$320 |   |
 | Covert Belt | Belt with pocket for Discreet carry of lockpicks | [Covert pocket belt][amazon-belt] | ~$15-20 |   |
 | Titanium Bogota Picks | Compact Titanium lock-set for EDC, and titanium is not flagged by regular metal detectors | [Serepick Bogota Pi][serepick-bogota] | ~$45 |   |
 | Chameleon Ultra | Similar to the Proxmark for RFID attacks | [Hw - Chameleon Ultra][chameleon-ultra] | ~$130 | Alt: n/a  |
