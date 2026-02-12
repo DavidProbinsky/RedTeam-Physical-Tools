@@ -121,6 +121,7 @@
 | Wi-Fi Pineapple | Wireless pen-testing platform | [Hak5 Wi-Fi Pineapple][hak5-wifi] | ~$240 | If planning on doing Walkthrough assessments, the Enterprise version (~$850) is recommended  |
 | O.MG Plug | Covert USB implant | [Hak5 OMG Cable][hak5-omg] | ~$115 |   |
 | ESPKey | Access control implant | [RTT ESPKey][rtt-espkey] | ~$79 |   |
+| Doppelgänger RFID Development Board | Access control implant | [PPE - RFID Dev Board][ppe-devboard] | ~$60 |   |
 
 **Estimated Subtotal (Implants/Drops):** ~$1,150 - $2,000
 
@@ -278,7 +279,8 @@ MIT — see the [LICENSE](LICENSE) file.
 [hak5-wifi]: https://hak5.org/products/wi-fi-pineapple  
 [hak5-omg]: https://hak5.org/products/omg-plug  
 [hak5-pager]: https://hak5.org/products/wifi-pineapple-pager  
-[rtt-espkey]: https://www.redteamtools.com/espkey  
+[rtt-espkey]: https://www.redteamtools.com/espkey
+[ppe-devboard]: https://store.physicalexploit.com/products/doppelganger-pcb
 
 [flipper]: https://shop.flipperzero.one/  
 [amazon-belt]: https://www.amazon.com/dp/B07R6X6XSY??tag=redteam0a-20 
