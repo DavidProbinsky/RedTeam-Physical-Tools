@@ -187,7 +187,7 @@ All tools are in beta. More at [redteam.vip/resources](https://redteam.vip/resou
 ---
 
 ## Suppliers
-- [Sparrows][sparrows] · [Red Team Tools][rtt] · [Covert Instruments][ci] · [Serepick][serepick] · [Hooligan Keys][hk-main] · [SouthOrd][southord] · [Hak5][hak5] · [Dangerous Things][dangerous] · [LockPickWorld][lpw] · [TOOOL][toool] · [Practical Physical Exploitation][ppe] · [Hacker Warehouse][hw]
+- [Sparrows][sparrows] · [Red Team Tools][rtt] · [Covert Instruments][ci] · [Serepick][serepick] · [Hooligan Keys][hk-main] · [SouthOrd][southord] · [Hak5][hak5] · [Dangerous Things][dangerous] · [LockPickWorld][lpw] · [TOOOL][toool] · [Practical Physical Exploitation][ppe] · [Hacker Warehouse][hw] · [Apex Locksport][apexlocksport]
 
 ---
 
@@ -236,6 +236,7 @@ MIT — see the [LICENSE](LICENSE) file.
 [toool]: https://toool.us  
 [ppe]: https://physicalexploit.com/
 [hw]: https://hackerwarehouse.com/
+[apexlocksport]: https://apexlocksport.com
 
 [echelon]: https://covertinstruments.com/products/echelon-pick-set
 [ci-ergo]: https://covertinstruments.com/products/ergo-turner-set  
