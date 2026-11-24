@@ -40,15 +40,15 @@
 | [RAM – RFID Attack Matrix](https://redteam.vip/ram) | Quick reference on access control and RFID vulnerabilities |
 | [Access Control Bit Decoder](https://redteam.vip/access-control-bit-decoder) | Learn how card formats and credential bits work |
 | [ID Badge Designer](https://redteam.vip/id-badge-designer) | Build pretext badges for social engineering engagements |
-| [SLIP – Site & Location Intelligence Platform](https://redteam.vip/slip) | Organize site recon for red team operations |
+| [SLIP – Site & Location Intelligence Platform](https://redteam.vip/slip) | Organize site recon for red team operations (open source: [repo](https://github.com/DavidProbinsky/slip)) |
 | [PS-CVSS Physical Security Scoring Reference](https://redteam.vip/ps-cvss) | Score physical security findings ([PDF](https://redteam.vip/wp-content/uploads/2026/03/PS_CVSS_Scoring_Reference.pdf)) |
 | [Sample Authorization Form](https://redteam.vip/wp-content/uploads/2026/01/SAMPLE_authorization_form.pdf) | Template for written engagement authorization |
 | [Sample Client Intake Questionnaire](https://redteam.vip/wp-content/uploads/2026/01/SAMPLE_client_intake_questionnaire.pdf) | Scoping questions for new engagements |
 | [Sample Law Enforcement Notification](https://redteam.vip/wp-content/uploads/2026/01/SAMPLE_LE_Notification_Letter.pdf) | Template for notifying local law enforcement |
 
-All tools are in beta. More at [redteam.vip/resources](https://redteam.vip/resources/).
+All tools are free to use. More at [redteam.vip/resources](https://redteam.vip/resources/).
 
-**Training:** Online courses on physical entry, RFID and access control, social engineering and cyber red teaming at [redteam.vip](https://redteam.vip).
+**Training:** Online courses on physical entry, RFID and access control, social engineering and cyber red teaming at [redteam.vip/courses](https://redteam.vip/courses/).
 
 ---
 
